@@ -32,6 +32,6 @@ yarn-error.log
 # System files
 .DS_Store
 Thumbs.db
-.variables.env
-.package-lock.json
-.package.json
+variables.env
+package-lock.json
+package.json
